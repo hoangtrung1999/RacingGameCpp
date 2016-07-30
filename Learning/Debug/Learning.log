@@ -1,0 +1,17 @@
+﻿Build started 7/14/2016 11:06:09 PM.
+     1>Project "D:\Snake-C-\Learning\Learning\Learning.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Learning.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Learning.vcxproj -> D:\Snake-C-\Learning\Debug\Learning.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Learning.unsuccessfulbuild".
+         Touching "Debug\Learning.lastbuildstate".
+     1>Done Building Project "D:\Snake-C-\Learning\Learning\Learning.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
